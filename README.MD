@@ -1,5 +1,5 @@
-NAMA    = RIVAL HERMAWAN
-NIM     = 1124160127
+NAMA    = RIVAL HERMAWAN \\n
+NIM     = 1124160127 \\n
 KELAS   = TI 24 SE M
 
 ```dart
