@@ -1,8 +1,3 @@
-NAMA    = RIVAL HERMAWAN\
-NIM     = 1124160127\   
-KELAS   = TI 24 SE M
-
-```dart
 void main (){
   print('hello');
   String nama = 'Serj Tankian';
@@ -78,6 +73,3 @@ void main (){
 
   
 }
-
-
-```
